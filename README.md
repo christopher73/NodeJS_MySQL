@@ -1,4 +1,4 @@
-[![hw](./sc.jpg)](https://drive.google.com/file/d/1UHQrsXpY0o7DvsVCQ0UJMQZwP3UHAm6S/view?usp=sharing "hw")
+[![hw](./hw.png)](https://drive.google.com/file/d/1UHQrsXpY0o7DvsVCQ0UJMQZwP3UHAm6S/view?usp=sharing "hw")
 
 ## used the following to create MYSQL + NODEjs
 
