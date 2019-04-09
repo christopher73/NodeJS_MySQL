@@ -1,9 +1,11 @@
-## use the following to create MYSQL + NODEjs
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://drive.google.com/file/d/1UHQrsXpY0o7DvsVCQ0UJMQZwP3UHAm6S/view?usp=sharing "Everything Is AWESOME")
+
+## used the following to create MYSQL + NODEjs
 
 ```javascript
-const uniqid = require("uniqid");
-const mysql = require("mysql");
-const inquirer = require("inquirer");
+const uniqid = require("uniqid"); //to create unique primary ID 
+const mysql = require("mysql"); //to stablish connection to mysql DB
+const inquirer = require("inquirer"); //to create user interface via terminal
 ```
 
 # use .sql script to create the database
